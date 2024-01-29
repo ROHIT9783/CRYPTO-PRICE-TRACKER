@@ -1,4 +1,4 @@
-# Crypto Tracker App
+# CRYPTO-PRICE-TRACKER App
 
 A simple React application for tracking cryptocurrency information using the CoinGecko API.
 
