@@ -8,9 +8,6 @@ A simple React application for tracking cryptocurrency information using the Coi
 - [Files](#files)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Description
 
 This project is a React-based cryptocurrency tracker that fetches data from the CoinGecko API and displays it in a visually appealing manner. It includes components for listing top cryptocurrencies, a search functionality, and individual coin details.
@@ -52,10 +49,10 @@ The entry point of the React application, rendering the `App` component into the
 3. Run the application: npm start
 
  
-4. Usage
-Run the application locally after installation.
-Enter search queries to find specific cryptocurrencies.
-Explore individual coin details such as price, volume, market cap, and price change.
+## Usage 
+1.Run the application locally after installation.
+2.Enter search queries to find specific cryptocurrencies.
+3.Explore individual coin details such as price, volume, market cap, and price change.
 
 
  
