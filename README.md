@@ -42,4 +42,23 @@ The entry point of the React application, rendering the `App` component into the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ROHIT9783/CRYPTO-PRICE-TRACKER
+   git clone https://github.com/ROHIT9783/CRYPTO-PRICE-TRACKER.git
+
+
+   
+2. Install dependencies: npm install
+
+ 
+3. Run the application: npm start
+
+ 
+4. Usage
+Run the application locally after installation.
+Enter search queries to find specific cryptocurrencies.
+Explore individual coin details such as price, volume, market cap, and price change.
+
+
+ 
+
+
+
