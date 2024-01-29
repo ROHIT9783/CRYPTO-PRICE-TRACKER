@@ -51,7 +51,9 @@ The entry point of the React application, rendering the `App` component into the
  
 ## Usage 
 1.Run the application locally after installation.
+
 2.Enter search queries to find specific cryptocurrencies.
+
 3.Explore individual coin details such as price, volume, market cap, and price change.
 
 
